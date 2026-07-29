@@ -3,19 +3,20 @@
     "details": [
       {
         "appIDs": [
-          "VLK57KQVDM.com.bteh.weeklycard",
-          "LS4W9HQF99.com.bteh.weeklycard"
+          "VLK57KQVDM.com.bteh.potluck"
         ],
         "components": [
-          { "/": "/t/*", "comment": "table invite links" }
+          {
+            "/": "/t/*",
+            "comment": "table invite links"
+          }
         ]
       }
     ]
   },
   "appclips": {
     "apps": [
-      "VLK57KQVDM.com.bteh.weeklycard.Clip",
-      "LS4W9HQF99.com.bteh.weeklycard.Clip"
+      "VLK57KQVDM.com.bteh.potluck.Clip"
     ]
   }
 }
